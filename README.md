@@ -5,4 +5,4 @@
 
 Summary:
 
-- [Why am I creating a new code editor?](/why-am-i-creating-a-new-code-editor)
+- [Why am I creating a new code editor?](/why-am-i-creating-a-new-code-editor.md)
