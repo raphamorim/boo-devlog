@@ -1,7 +1,11 @@
 > [!NOTE]
 > This is Boo devlog, my thoughts and development updates over time will be placed here. When Boo is ready to be open source, this repository will became Boo source code.
 
-# boo-editor
+# Boo Editor
+
+> Code like video game.
+
+<img src="assets/boo-logo.png" height="250px" alt="Boo code editor logo" />
 
 Summary:
 
