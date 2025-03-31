@@ -17,7 +17,3 @@ Summary:
 ### Why is it not open source yet?
 
 The real answer is that I want to avoid much noise as much as possible while developing Boo. I also want to prioritize Rio terminal development since it's already used by hundreds of users as their main terminal driver.
-
-### Is it gonna have VIM/EMACS support?
-
-No, Boo introduces a new navigation/editing system that is a replacement for VIM/EMACS.
