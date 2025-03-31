@@ -10,6 +10,7 @@
 Summary:
 
 - [1. Why am I creating a new code editor?](/01-why-am-i-creating-a-new-code-editor.md)
+- [2. Building Boo code editor](/02-building-boo-code-editor-1.md)
 
 # FAQ
 
