@@ -14,11 +14,7 @@ The prototype development was quick to finish. JavaScript and the Web are part o
 
 I wanted to prove to myself: ok, Boo editing system wasn't crazy and could work for anyone that has zero experience with programming. After a few iterations, the idea I took from my notebook drafts was working fairly well: no mouse dependency whatsoever, you don’t need it anymore. No necessity to feel like playing guitar while editing a file.
 
-Me debugging Boo while frustrated with the performance so far whenever pressing enter lol.
-
-<video autoplay loop playsinline muted style="width: 100%">
-  <source src="https://raphamorim.io/assets/videos/boo-quick-demo.webm" type="video/webm" />
-</video>
+[Click here to see me debugging Boo while frustrated with the performance so far whenever pressing enter lol](https://raphamorim.io/assets/videos/boo-quick-demo.webm).
 
 Btw that (^) was fixed already.
 
