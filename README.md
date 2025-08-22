@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is Boo devlog, my thoughts and development updates over time will be placed here. When Boo is ready to be open source, this repository will became Boo source code.
+> This is Boo devlog, my thoughts and development updates over time will be placed here.
 
 # Boo Editor
 
